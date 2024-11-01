@@ -50,26 +50,6 @@ npm start
 ## Usage
 Once the server is running, you can test the API with a tool like Postman or Insomnia. The backend API provides endpoints to perform CRUD operations on products, categories, and tags.
 
-## Endpoints
-Here's a summary of available endpoints:
-
-Endpoint	Method	Description
-/api/products	GET	Retrieve all products
-/api/products/:id	GET	Retrieve product by ID
-/api/products	POST	Create a new product
-/api/products/:id	PUT	Update product by ID
-/api/products/:id	DELETE	Delete product by ID
-/api/categories	GET	Retrieve all categories
-/api/categories/:id	GET	Retrieve category by ID
-/api/categories	POST	Create a new category
-/api/categories/:id	PUT	Update category by ID
-/api/categories/:id	DELETE	Delete category by ID
-/api/tags	GET	Retrieve all tags
-/api/tags/:id	GET	Retrieve tag by ID
-/api/tags	POST	Create a new tag
-/api/tags/:id	PUT	Update tag by ID
-/api/tags/:id	DELETE	Delete tag by ID
-
 ## Technologies
 Express.js - Server framework for Node.js
 Sequelize - ORM for SQL-based databases
