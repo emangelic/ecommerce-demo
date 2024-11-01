@@ -32,10 +32,10 @@ npm install
 3. Environment Variables Setup
 
 Create a .env file in the root directory and configure the following variables:
-DB_NAME=your_database_name
-DB_USER=your_database_user
-DB_PASSWORD=your_database_password
-DB_HOST=localhost
+- DB_NAME=your_database_name
+- DB_USER=your_database_user
+- DB_PASSWORD=your_database_password
+- DB_HOST=localhost
 
 4. Database Setup
 

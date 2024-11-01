@@ -1,0 +1,32 @@
+# Node modules directory
+node_modules/
+
+# Environment variables file
+.env
+.env.EMILY
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files (MacOS and Linux)
+.DS_Store
+Thumbs.db
+
+# Coverage directory (if you use a testing framework like Jest)
+coverage/
+
+# Build files (for example, if you transpile from TypeScript or Babel)
+dist/
+build/
+
+# Optional: Database files
+*.sqlite
+*.sqlite3
+
+# Optional: Ignore editor-specific files
+.vscode/
+.idea/
